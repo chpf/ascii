@@ -1,0 +1,1 @@
+56944 281474976980977 1646341693510915300 d01f2b3a7fbdb7b6ee42d2cd6f6829ec C:\Users\hansa\tools\zig-windows-x86_64-0.10.0-dev.1107+7deadf430\lib\libc\mingw\lib-common\ntdll.def.in
